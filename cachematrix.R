@@ -1,6 +1,5 @@
 # This code calculates inverse of a matrix for the first time (for a new matrix).
-# If inverse of same matrix is computed again, it returns that value from the cache
-# instead of calculating again.
+# If inverse of same matrix is called again, it returns that value from the cache instead of calculating again.
 
 
 ## This function creates a matrix object which takes original matrix (also keeps it)
